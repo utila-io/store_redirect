@@ -1,4 +1,4 @@
-#import "StoreRedirectPlugin.h"
+#import "./include/store_redirect/StoreRedirectPlugin.h"
 
 @implementation StoreRedirectPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
